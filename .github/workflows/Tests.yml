@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   
 jobs:
-  run-on-8.0.3:
+  run-on-803:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,7 +22,7 @@ jobs:
       run: cd EquateRecordsAssembly; dotnet run
 
 
-  run-on-8.0.4:
+  run-on-804:
     runs-on: ubuntu-latest
 
     steps:
