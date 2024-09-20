@@ -13,7 +13,7 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: |
-          8.0.3
+          8.0.3xx
 
     - name: Build
       run: dotnet build
@@ -31,7 +31,7 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: |
-          8.0.4
+          8.0.4xx
 
     - name: Build
       run: dotnet build
