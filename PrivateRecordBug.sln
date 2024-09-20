@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PrivateConstructorAssembly", "PrivateConstructorAssembly\PrivateConstructorAssembly.fsproj", "{A7D4BBD7-2245-44F1-BBBF-6FC1E31CA0DC}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "EquateRecordsAssembly", "EquateRecordsAssembly\EquateRecordsAssembly.fsproj", "{0A258B0E-6C56-438E-84D0-E6CDAE7D4335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D4BBD7-2245-44F1-BBBF-6FC1E31CA0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D4BBD7-2245-44F1-BBBF-6FC1E31CA0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D4BBD7-2245-44F1-BBBF-6FC1E31CA0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D4BBD7-2245-44F1-BBBF-6FC1E31CA0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A258B0E-6C56-438E-84D0-E6CDAE7D4335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A258B0E-6C56-438E-84D0-E6CDAE7D4335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A258B0E-6C56-438E-84D0-E6CDAE7D4335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A258B0E-6C56-438E-84D0-E6CDAE7D4335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
